@@ -1,6 +1,5 @@
 # Indranil Roychoudhury
-Artificial Intelligence Scientist
-Software Technology Innovation Center @ Schlumberger, Menlo Park, CA, USA
+Artificial Intelligence Scientist, Software Technology Innovation Center @ Schlumberger, Menlo Park, CA, USA
 
 ## Contact Information
 * **Email:** indranil dot roychoudhury at gmail dot com
