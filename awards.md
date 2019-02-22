@@ -1,4 +1,10 @@
-# Honors and Awards
+---
+layout: page
+title: Awards
+permalink: /awards/
+---
+
+<!-- # Honor and Awards -->
 
 ## Individual Awards
 
@@ -17,7 +23,7 @@
 * NASA Group Achievement Award awarded to the Advanced Ground Systems Maintenance (AGSM) Team for outstanding education and teamwork needed to design, develop, and activate Advanced Ground System Maintenance systems, May 2015.
 * NASA Group Achievement Award awarded to the Prognostics Group for groundbreaking foundational discoveries in the field of Prognostics and Health Management, August 2014.
 * ISRDS Team Recognition Award for Outstanding Contribution to the Ames Prognostics Center of Excellence and to the Prognostics Community, December 2012. 
-​
+
 ## Paper Awards
 
 * Best Theory Paper Award - Annual Conference of the Prognostics and Health Management Society, September 2011.
